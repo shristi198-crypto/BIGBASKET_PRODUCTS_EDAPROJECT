@@ -47,51 +47,51 @@ Environment: Jupyter Notebook 📓
 
 📝 Methodology & Steps Followed
 
-Data Import & Inspection
+1 Data Import & Inspection
 
-Load dataset into Pandas DataFrame.
+2 Load dataset into Pandas DataFrame.
 
-Review data types, shape, and preliminary statistics.
+3 Review data types, shape, and preliminary statistics.
 
-Data Cleaning
+4 Data Cleaning
 
-Handle missing values and duplicates.
+5 Handle missing values and duplicates.
 
-Standardize categorical fields (brand names, categories).
+6 Standardize categorical fields (brand names, categories).
 
-Feature Engineering
+# Feature Engineering
 
-Calculate discount percentage.
+1 Calculate discount percentage.
 
-Create derived variables for analysis.
+2 Create derived variables for analysis.
 
-Descriptive Analysis
+3 Descriptive Analysis
 
-Explore numerical distributions (mean, median, IQR).
+4 Explore numerical distributions (mean, median, IQR).
 
-Summarize categorical distributions (top brands, categories).
+5 Summarize categorical distributions (top brands, categories).
 
-Outlier Detection & Treatment
+6 Outlier Detection & Treatment
 
-Apply IQR method to detect price/rating outliers.
+7 Apply IQR method to detect price/rating outliers.
 
-Cap extreme values to reduce skewness.
+8 Cap extreme values to reduce skewness.
 
-Visualization
+9 Visualization
 
-Univariate: histograms, boxplots (price distribution).
+#Univariate: histograms, boxplots (price distribution).
 
-Bivariate: bar plots, heatmaps (category vs price, discount vs brand).
+#Bivariate: bar plots, heatmaps (category vs price, discount vs brand).
 
-Multivariate: correlation analysis among numerical features.
+#Multivariate: correlation analysis among numerical features.
 
-Insight Extraction
+#Insight Extraction
 
-Identify leading brands and product categories.
+#Identify leading brands and product categories.
 
-Compare market vs sale price differences.
+#Compare market vs sale price differences.
 
-Assess rating distribution for customer feedback trends.
+#Assess rating distribution for customer feedback trends.
 
 📊 #Key Insights
 
